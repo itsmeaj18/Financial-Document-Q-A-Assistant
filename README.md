@@ -12,6 +12,13 @@ A lightweight Streamlit app that lets you upload **financial documents (PDF or E
 
 ---
 
+## Requirements
+- streamlit
+- pdfplumber
+- pandas
+- openpyxl
+---
+
 ## Setup
 
 1. Clone the repo (or just download the files):
