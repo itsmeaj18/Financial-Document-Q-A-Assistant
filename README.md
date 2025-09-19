@@ -17,8 +17,9 @@ A lightweight Streamlit app that lets you upload **financial documents (PDF or E
 1. Clone the repo (or just download the files):
 
    ```bash
-   git clone https://github.com/your-username/financial-doc-qa.git
-   cd financial-doc-qa
+   git clone https://github.com/itsmeaj18/Financial-Document-Q-A-Assistant.git
+   cd Financial-Document-Q-A-Assistant
+
    ```
 
 2. Create a virtual environment (recommended):
